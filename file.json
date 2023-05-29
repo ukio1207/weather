@@ -1,0 +1,75 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Super Man",
+      "age" : 20,
+      "secretIdentity" : "Clark Kent",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast",
+        "Strength",
+        "Speed",
+        "Stamina",
+        "Durability",
+        "Agility",
+        "Radiation blast",
+        "Reflexes Enhanced Vision Super-Hearing Flight Solar Energy Absorption",
+        "speed",
+        "stamina",
+        "Masculine",
+        "A real Man"
+      ]
+    },
+    {
+      "name" : "Megamind",
+      "age" : 20,
+      "secretIdentity" : "Bernard",
+      "powers" : [
+        "RSuper-Intelligence",
+        "devilish style",
+        "Bold",
+        "Blue",
+        "Genius Inventor",
+        "IQ around 350"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
